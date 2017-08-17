@@ -1,2 +1,1 @@
-# minuteson
-# lvmdfeu
+# livestream and video player environment
